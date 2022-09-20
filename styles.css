@@ -49,6 +49,12 @@ body{
 
 /* Header start */
 
+.header {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
+
 .navbar__logo {
     color:#fff;
 }
